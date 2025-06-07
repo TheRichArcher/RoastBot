@@ -1,1 +1,3 @@
-tweepy\nopenai\nrequests
+tweepy
+openai
+requests
